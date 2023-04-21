@@ -1,8 +1,6 @@
 <p align="center">
   <h2 align="center"> Webex Outbound Dialer</h2>
 
-Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
-
   <p align="center">
     As of Q4 2021, it isn't possible to <i>natively</i> add a non-Webex registered SIP endpoint to a Webex Meeting ad-hoc.  This proof of concept solves that issue!
     <br />
@@ -13,11 +11,6 @@ Welcome to our WXSD DEMO Repo! <!-- Keep this here -->
     <a href="https://github.com/WXSD-Sales/WebexOutboundDialer/issues"><strong>Request Feature</strong></a>
   </p>
 </p>
-
-
-<!-- Keep the following here -->  
- *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
- 
  
 ## About The Project
 
