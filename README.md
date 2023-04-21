@@ -134,7 +134,7 @@ If you want to serve this at system startup, I recommend using [pm2](https://pm2
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+All contents are licensed under the MIT license. Please see [license](LICENSE) for details.
 
 ## Disclaimer
 <!-- Keep the following here -->  
