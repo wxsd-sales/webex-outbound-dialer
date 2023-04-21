@@ -1,6 +1,8 @@
 <p align="center">
   <h2 align="center"> Webex Outbound Dialer</h2>
 
+Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
+
   <p align="center">
     As of Q4 2021, it isn't possible to <i>natively</i> add a non-Webex registered SIP endpoint to a Webex Meeting ad-hoc.  This proof of concept solves that issue!
     <br />
@@ -12,6 +14,11 @@
   </p>
 </p>
 
+
+<!-- Keep the following here -->  
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
+ 
 ## About The Project
 
 ### Video Demo
@@ -45,13 +52,15 @@ III. Therefore, **3** uses its remote stream to update the local stream of **2**
 **Figure C:**  
 I. **1** is no longer needed, so it can be dropped, solving the loop problem, and creating the bridge.  
 
-### Built With
+## Setup
+
+### Prerequisites & Dependencies: 
 
 Each of these is required:
 - MacOS 10.15 (Catalina)
 - node.js (>= v12.0)
-- playwright
-- express
+- [playwright](https://playwright.dev/docs/intro)
+- [express](https://www.npmjs.com/package/express)
 
 <!-- GETTING STARTED -->
 
@@ -133,6 +142,10 @@ If you want to serve this at system startup, I recommend using [pm2](https://pm2
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Disclaimer
+<!-- Keep the following here -->  
+Everything included is for demo and Proof of Concept purposes only. Use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos.
 
 <!-- CONTACT -->
 
